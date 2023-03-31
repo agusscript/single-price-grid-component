@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - [Fron End Mentor solution](https://www.frontendmentor.io/solutions/single-price-grid-component-ps9SuiWTSu)
-- [Live site](https://agusscript.github.io/Single-price-grid-component/)
+- [Live site](https://codepen.io/agusscript/pen/poOXzMa)
 
 ## My process
 
